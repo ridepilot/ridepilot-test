@@ -6,7 +6,7 @@ Here are some otters for testing how images work:![](/assets/9139425522_98ff373e
 
 | _**An example table**_ | Urgent | Not Urgent |
 | :--- | :--- | :--- |
-| **Important** | Spend a little time here as needed | Spend most of your time here |
+| **Important** | Spend a little time here as needed | Spend as much of your time here as possible |
 | **Not Important** | Spend as little time as possible here | Spend no time here |
 
 A pithy quote, to demonstrate blockquotes formatting:
